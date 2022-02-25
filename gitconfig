@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nick.don.1102@gmail.com
+	name = Nick Don
